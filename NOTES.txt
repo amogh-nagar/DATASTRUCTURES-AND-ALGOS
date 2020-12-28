@@ -1,0 +1,10 @@
+One number will be less than another if and only if ->
+
+the first different bit in a must be 0 and the first different bit in b must be 1->
+
+0001 ->1
+0010 ->2
+
+
+########################   NUMBER THEORY  #############################
+
